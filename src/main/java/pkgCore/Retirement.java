@@ -11,6 +11,11 @@ public class Retirement {
 	
 	//TODO: Build the contructor, getters and setters for the attributes above.
 	
+	public Retirement(int iYearsToWork2, double dAnnualReturn, int iYearsRetired2, double dAnnualReturnRetired2,
+			double dRequiredIncome2, double dMonthlySSI2) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public double AmountToSave()
 	{
 		//TODO: Determine the amount to save each month based on TotalAmountSaved, YearsToWork
